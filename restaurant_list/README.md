@@ -1,6 +1,8 @@
 # restaurant_list
 
-A new Flutter project.
+Displays a list of restaurant that can be filtered by name and ratings.
+
+![](./docs/screen.png)
 
 ## Getting Started
 
